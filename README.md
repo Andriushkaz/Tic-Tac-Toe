@@ -1,4 +1,4 @@
-<!--THIS IS TIC TAC TOE GAME-->
+<!--THIS IS TIC TAC TOE GAME by Andrej Laptev, Andriushkaz-->
 <!DOCTYPE html>
 <html>
 <head>
